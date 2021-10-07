@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rohanjasons/Documents/Projects/web.framework/Web.Tests/Web.Tests.csproj": {}
+    "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Tests/Web.Tests.csproj": {}
   },
   "projects": {
-    "/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/Web.Framework.csproj": {
+    "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Framework/Web.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/Web.Framework.csproj",
+        "projectUniqueName": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Framework/Web.Framework.csproj",
         "projectName": "Web.Framework",
-        "projectPath": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/Web.Framework.csproj",
+        "projectPath": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Framework/Web.Framework.csproj",
         "packagesPath": "/Users/rohanjasons/.nuget/packages/",
-        "outputPath": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/",
+        "outputPath": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Framework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rohanjasons/.config/NuGet/NuGet.Config"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "/Users/rohanjasons/Documents/Projects/web.framework/Web.Tests/Web.Tests.csproj": {
+    "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Tests/Web.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Tests/Web.Tests.csproj",
+        "projectUniqueName": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Tests/Web.Tests.csproj",
         "projectName": "Web.Tests",
-        "projectPath": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Tests/Web.Tests.csproj",
+        "projectPath": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Tests/Web.Tests.csproj",
         "packagesPath": "/Users/rohanjasons/.nuget/packages/",
-        "outputPath": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Tests/obj/",
+        "outputPath": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rohanjasons/.config/NuGet/NuGet.Config"
@@ -92,8 +92,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/Web.Framework.csproj": {
-                "projectPath": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/Web.Framework.csproj"
+              "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Framework/Web.Framework.csproj": {
+                "projectPath": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Framework/Web.Framework.csproj"
               }
             }
           }

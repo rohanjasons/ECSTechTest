@@ -5301,11 +5301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/Web.Framework.csproj",
+      "projectUniqueName": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Framework/Web.Framework.csproj",
       "projectName": "Web.Framework",
-      "projectPath": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/Web.Framework.csproj",
+      "projectPath": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Framework/Web.Framework.csproj",
       "packagesPath": "/Users/rohanjasons/.nuget/packages/",
-      "outputPath": "/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/",
+      "outputPath": "/Users/rohanjasons/Documents/WIP/ECSTechTest/qa-tech-test-master/src/test/e2e/Web.Framework/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rohanjasons/.config/NuGet/NuGet.Config"

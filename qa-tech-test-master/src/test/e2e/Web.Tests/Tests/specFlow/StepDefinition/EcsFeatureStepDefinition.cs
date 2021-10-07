@@ -19,10 +19,12 @@ namespace Web.Tests.Tests.specFlow.StepDefinition
             this.objectContainer = objectContainer;
         }
 
+        private string Url = "http://localhost:3000";
+
         [Given("I have started the technical challenge")]
         public void IHaveStartedTheTechnicalChallenge()
         {
-            CommonTestSetup(new Uri(testConfig.BaseUrl), true, WebDriver.Chrome);
+            CommonTestSetup(new Uri(Url), true, WebDriver.Chrome); // "testConfig.BaseUrl" in order to achieve tokenisation and reinforce no secrets in code I would call from the test config JSON file. In order to get this to work the user may need to update the preference to copy the file to output which would fail the brief of the tests running without interference.
             var ChallengeStarted = WebBrowserDriver
                 .LandingPage()
                 .StartChallenge();
