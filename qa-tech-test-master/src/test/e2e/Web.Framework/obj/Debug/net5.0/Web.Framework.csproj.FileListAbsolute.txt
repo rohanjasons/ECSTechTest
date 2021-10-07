@@ -1,0 +1,12 @@
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/bin/Debug/net5.0/Web.Framework.deps.json
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/bin/Debug/net5.0/Web.Framework.dll
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/bin/Debug/net5.0/ref/Web.Framework.dll
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/bin/Debug/net5.0/Web.Framework.pdb
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/Debug/net5.0/Web.Framework.csproj.AssemblyReference.cache
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/Debug/net5.0/Web.Framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/Debug/net5.0/Web.Framework.AssemblyInfoInputs.cache
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/Debug/net5.0/Web.Framework.AssemblyInfo.cs
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/Debug/net5.0/Web.Framework.csproj.CoreCompileInputs.cache
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/Debug/net5.0/Web.Framework.dll
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/Debug/net5.0/ref/Web.Framework.dll
+/Users/rohanjasons/Documents/Projects/web.framework/Web.Framework/obj/Debug/net5.0/Web.Framework.pdb
